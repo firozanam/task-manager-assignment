@@ -1,3 +1,4 @@
 node_modules
 .idea
 study.txt
+.DS_Store
